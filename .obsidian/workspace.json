@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+                "file": "blogs/cmake_use_boost/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 388.5
   },
   "right": {
     "id": "1574b4320b83a304",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+                "file": "blogs/cmake_use_boost/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+                "file": "blogs/cmake_use_boost/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+                "file": "blogs/cmake_use_boost/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -171,34 +171,51 @@
   },
   "active": "10621275c393b51c",
   "lastOpenFiles": [
-    "cmake_use_boost/index.md",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
-    "cmake_use_boost/thirdparty/boost",
-    "cmake_use_boost/thirdparty",
-    "cmake_use_boost/output.txt",
-    "cmake_use_boost/main.cc",
-    "cmake_use_boost/CMakeLists.txt",
-    "cmake_use_boost/build_and_run.sh",
-    "cmake_use_boost/attachments",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/process_macro/utils.h",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/process_macro/utils.cpp",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/process_macro/user_api.h",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/02_打开vscode.png",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/10_终止编译cpptoture.jpg",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/04_vscode_clangd插件崩溃提示信息.jpg",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/07_vscode插件崩溃后.png",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/06_vscode_clangd插件崩溃日志2.jpg",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/01_初始状态.jpg",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/09_编译cpptoture_2.png",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/03_打开cpptoture文件&vscode_clangd插件反复崩溃重启.png",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/05_vscode_clangd插件崩溃日志1.jpg",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/08_编译cpptorture_1.png",
-    "翻译RecursiveMacrosWithC++20__VA_OPT__/翻译.md",
-    "public_attachments/翻译RecursiveMacrosWithC++20__VA_OPT__/翻译.md",
-    "public_attachments/翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
-    "public_attachments/draft/cpp/define_template_in_cpp_file/README.md",
-    "public_attachments/draft/cpp/README.md",
-    "public_attachments/books/C++20 模板concept.md"
+    "blogs/cmake_use_boost/code/main.cc",
+    "blogs/cmake_use_boost/code/thirdparty/boost/CMakeLists.txt",
+    "blogs/cmake_use_boost/code/thirdparty/boost",
+    "blogs/cmake_use_boost/code/thirdparty",
+    "blogs/cmake_use_boost/code/CMakeLists.txt",
+    "blogs/cmake_use_boost/code/output.txt",
+    "blogs/cmake_use_boost/code/build_and_run.sh",
+    "blogs/cmake_use_boost/code",
+    "blogs/cmake_use_boost/thirdparty/boost/CMakeLists.txt",
+    "{{<.md",
+    "blogs/cmake_use_boost/index.md",
+    "附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md.md",
+    "sync.sh",
+    "run.sh",
+    "00_template/hugo 模板.md",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/10_终止编译cpptoture.jpg",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/09_编译cpptoture_2.png",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/08_编译cpptorture_1.png",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/02_打开vscode.png",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/07_vscode插件崩溃后.png",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/06_vscode_clangd插件崩溃日志2.jpg",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/05_vscode_clangd插件崩溃日志1.jpg",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/04_vscode_clangd插件崩溃提示信息.jpg",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/03_打开cpptoture文件&vscode_clangd插件反复崩溃重启.png",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/01_初始状态.jpg",
+    "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md.md",
+    "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
+    "blogs/阿姆达尔定律/index.md.md",
+    "blogs/小问题集合/index.md.md",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
+    "blogs/gperftools-cpu性能分析/index.md",
+    "blogs/使用表达式模板做向量计算/index.md",
+    "blogs/markdown-syntax/index.md",
+    "blogs/placeholder-text/index.md",
+    "blogs/placeholder-text/index.ar.md",
+    "blogs/math-typesetting/index.md",
+    "blogs/emoji-support/index.md",
+    "blogs/chinese-test/index.zh-cn.md",
+    "blogs/Obsidian跨平台同步/同步流程_冲突文件_root_20241229142547.md",
+    "blogs/00_template/hugo 模板.md",
+    "blogs/Obsidian跨平台同步/同步流程.md",
+    "blogs/Obsidian跨平台同步/index_冲突文件_root_20241229142544.md",
+    "blogs/Obsidian跨平台同步/index.md",
+    "使用表达式模板做向量计算/index.md",
+    "附加-翻译RecursiveMacrosWithC++20__VA_OPT__/README.md"
   ]
 }

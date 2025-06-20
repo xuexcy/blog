@@ -15,7 +15,7 @@ CUR_DIR=$(cd `dirname $0`; pwd)
 cd ${CUR_DIR}
 
 name=使用表达式模板做向量计算
-curl https://raw.githubusercontent.com/xuexcy/learning_more_cpp_idioms/refs/heads/main/src/expression_template_deps/README.md > ${CUR_DIR}/$name/index.md
+curl https://raw.githubusercontent.com/xuexcy/learning_more_cpp_idioms/refs/heads/main/src/expression_template_deps/README.md > ${CUR_DIR}/blogs/$name/index.md
 
 
 
