@@ -12,7 +12,7 @@ tags:
   - thirdparty
 ---
 
-# [cmake_use_boost](https://github.com/xuexcy/blog/tree/main/cmake_use_boost)
+# [cmake_use_boost](https://github.com/xuexcy/blog/tree/main/blogs/cmake_use_boost/code)
 ```shell
 .
 ├── CMakeLists.txt

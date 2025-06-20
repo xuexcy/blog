@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3c2e48a35359f9f0",
+        "id": "e002eadf38c21d29",
         "type": "tabs",
         "children": [
           {
-            "id": "10621275c393b51c",
+            "id": "c145f84d2f0025db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/cmake_use_boost/index.md",
+                "file": "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/cmake_use_boost/index.md",
+                "file": "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/cmake_use_boost/index.md",
+                "file": "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/cmake_use_boost/index.md",
+                "file": "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -169,8 +169,13 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "10621275c393b51c",
+  "active": "bd4658b3ada6d41b",
   "lastOpenFiles": [
+    "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
+    "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
+    "blogs/cmake_use_boost/index.md",
     "blogs/cmake_use_boost/code/main.cc",
     "blogs/cmake_use_boost/code/thirdparty/boost/CMakeLists.txt",
     "blogs/cmake_use_boost/code/thirdparty/boost",
@@ -181,10 +186,8 @@
     "blogs/cmake_use_boost/code",
     "blogs/cmake_use_boost/thirdparty/boost/CMakeLists.txt",
     "{{<.md",
-    "blogs/cmake_use_boost/index.md",
     "附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md.md",
     "sync.sh",
-    "run.sh",
     "00_template/hugo 模板.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/10_终止编译cpptoture.jpg",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/09_编译cpptoture_2.png",
@@ -196,12 +199,8 @@
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/04_vscode_clangd插件崩溃提示信息.jpg",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/03_打开cpptoture文件&vscode_clangd插件反复崩溃重启.png",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/01_初始状态.jpg",
-    "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md.md",
-    "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
     "blogs/阿姆达尔定律/index.md.md",
     "blogs/小问题集合/index.md.md",
-    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
-    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
     "blogs/gperftools-cpu性能分析/index.md",
     "blogs/使用表达式模板做向量计算/index.md",
     "blogs/markdown-syntax/index.md",
