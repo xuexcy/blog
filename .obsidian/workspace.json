@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+                "file": "blogs/阿姆达尔定律/index.md.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "index.md"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+                "file": "blogs/阿姆达尔定律/index.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 的反向链接列表"
+              "title": "index.md 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+                "file": "blogs/阿姆达尔定律/index.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "index 的出链列表"
+              "title": "index.md 的出链列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+                "file": "blogs/阿姆达尔定律/index.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "index.md 的大纲"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -169,10 +170,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bd4658b3ada6d41b",
+  "active": "c145f84d2f0025db",
   "lastOpenFiles": [
-    "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+    "blogs/小问题集合/index.md.md",
+    "blogs/阿姆达尔定律/index.md.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
+    "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
     "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
     "blogs/cmake_use_boost/index.md",
@@ -199,8 +202,6 @@
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/04_vscode_clangd插件崩溃提示信息.jpg",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/03_打开cpptoture文件&vscode_clangd插件反复崩溃重启.png",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/01_初始状态.jpg",
-    "blogs/阿姆达尔定律/index.md.md",
-    "blogs/小问题集合/index.md.md",
     "blogs/gperftools-cpu性能分析/index.md",
     "blogs/使用表达式模板做向量计算/index.md",
     "blogs/markdown-syntax/index.md",
