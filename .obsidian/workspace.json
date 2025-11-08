@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/阿姆达尔定律/index.md.md",
+                "file": "blogs/小问题集合/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index.md"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/阿姆达尔定律/index.md.md",
+                "file": "blogs/小问题集合/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index.md 的反向链接列表"
+              "title": "index 的反向链接列表"
             }
           },
           {
@@ -172,8 +172,8 @@
   },
   "active": "c145f84d2f0025db",
   "lastOpenFiles": [
-    "blogs/小问题集合/index.md.md",
-    "blogs/阿姆达尔定律/index.md.md",
+    "blogs/阿姆达尔定律/index.md",
+    "blogs/小问题集合/index.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
     "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
