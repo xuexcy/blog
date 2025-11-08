@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/小问题集合/index.md",
+                "file": "blogs/Obsidian跨平台同步/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/小问题集合/index.md",
+                "file": "blogs/Obsidian跨平台同步/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,8 +172,12 @@
   },
   "active": "c145f84d2f0025db",
   "lastOpenFiles": [
-    "blogs/阿姆达尔定律/index.md",
+    "blogs/Obsidian跨平台同步/同步流程.svg",
+    "blogs/Obsidian跨平台同步/同步流程.md",
+    "blogs/Obsidian跨平台同步/index.md",
+    "blogs/Obsidian跨平台同步/index.md",
     "blogs/小问题集合/index.md",
+    "blogs/阿姆达尔定律/index.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
     "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
@@ -200,8 +204,6 @@
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/06_vscode_clangd插件崩溃日志2.jpg",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/05_vscode_clangd插件崩溃日志1.jpg",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/04_vscode_clangd插件崩溃提示信息.jpg",
-    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/03_打开cpptoture文件&vscode_clangd插件反复崩溃重启.png",
-    "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/01_初始状态.jpg",
     "blogs/gperftools-cpu性能分析/index.md",
     "blogs/使用表达式模板做向量计算/index.md",
     "blogs/markdown-syntax/index.md",
@@ -210,11 +212,7 @@
     "blogs/math-typesetting/index.md",
     "blogs/emoji-support/index.md",
     "blogs/chinese-test/index.zh-cn.md",
-    "blogs/Obsidian跨平台同步/同步流程_冲突文件_root_20241229142547.md",
     "blogs/00_template/hugo 模板.md",
-    "blogs/Obsidian跨平台同步/同步流程.md",
-    "blogs/Obsidian跨平台同步/index_冲突文件_root_20241229142544.md",
-    "blogs/Obsidian跨平台同步/index.md",
     "使用表达式模板做向量计算/index.md",
     "附加-翻译RecursiveMacrosWithC++20__VA_OPT__/README.md"
   ]
