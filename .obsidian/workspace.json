@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/Obsidian跨平台同步/index.md",
+                "file": "blogs/阿姆达尔定律/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blogs/Obsidian跨平台同步/index.md",
+                "file": "blogs/阿姆达尔定律/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,10 +172,9 @@
   },
   "active": "c145f84d2f0025db",
   "lastOpenFiles": [
+    "blogs/Obsidian跨平台同步/index.md",
     "blogs/Obsidian跨平台同步/同步流程.svg",
     "blogs/Obsidian跨平台同步/同步流程.md",
-    "blogs/Obsidian跨平台同步/index.md",
-    "blogs/Obsidian跨平台同步/index.md",
     "blogs/小问题集合/index.md",
     "blogs/阿姆达尔定律/index.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
