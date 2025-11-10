@@ -1,6 +1,6 @@
 ---
-title: 小问题集合(开发，系统，软件等)
-description: 小问题集合(开发，系统，软件等)
+title: 备忘录
+description: 开发，系统，软件等问题
 date: 2025-06-12T18:32:28+08:00
 draft: false
 categories:
@@ -48,3 +48,12 @@ refs: https://sysin.org/blog/disable-macos-sonoma-update/
 
 ## mac intel 芯片安装 windows 11
 https://www.bilibili.com/video/BV17m4y1L7ZU/?vd_source=fd19bce771432fd95d40a4fd97c8e733
+
+## mac hhkb classic 键盘配置
+1. 键盘背面打开 dip 2 切换到 mac 系统
+2. 使用 Karabiner-Elements  改键
+		a.  [下载软件](https://karabiner-elements.pqrs.org/)
+		b. [导入配置](https://github.com/xuexcy/personal_conf/tree/master/karabiner)
+3.  mac 系统配置快捷键: 系统设置 -> 键盘快捷键 -> 启动台与程序坞
+		a. 打开/关闭隐藏程序坞: command + L
+		b. 显示启动台: command + K 
