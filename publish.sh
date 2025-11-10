@@ -18,9 +18,11 @@ message=$1
 git add .
 git commit -m $message
 git push
+
 cd ../xuexcy.github.io/xcy
 sh pub.sh
 cd ..
+git add .
 git commit -m $message
 git push
 
