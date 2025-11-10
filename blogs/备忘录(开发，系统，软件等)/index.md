@@ -51,9 +51,11 @@ https://www.bilibili.com/video/BV17m4y1L7ZU/?vd_source=fd19bce771432fd95d40a4fd9
 
 ## mac hhkb classic 键盘配置
 1. 键盘背面打开 dip 2 切换到 mac 系统
-2. 使用 Karabiner-Elements  改键
-		a.  [下载软件](https://karabiner-elements.pqrs.org/)
+2. 使用 Karabiner-Elements  改键 <br>
+		a.  [下载软件](https://karabiner-elements.pqrs.org/) <br>
 		b. [导入配置](https://github.com/xuexcy/personal_conf/tree/master/karabiner)
-3.  mac 系统配置快捷键: 系统设置 -> 键盘快捷键 -> 启动台与程序坞
-		a. 打开/关闭隐藏程序坞: command + L
+3.  mac 系统配置快捷键: 系统设置 -> 键盘快捷键 -> 启动台与程序坞 <br>
+		a. 打开/关闭隐藏程序坞: command + L <br>
 		b. 显示启动台: command + K 
+##  键盘 [cmk87说明书](https://manuals.plus/zh-CN/fl-esports/cmk87-three-mode-87-keys-rgb-wireless-mechanical-keyboard-manual#axzz8WcZgApDl)
+## 手表 [佳明265说明书](https://support.garmin.com/zh-CN/?productID=886785&tab=videos)
