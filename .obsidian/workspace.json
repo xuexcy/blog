@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/备忘录(开发，系统，软件等)/index.md",
-                "mode": "source",
-                "source": false
+                "file": "blogs/搭建飞牛 fnOS-备忘/index.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
               "title": "index"
@@ -170,13 +170,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bd4658b3ada6d41b",
+  "active": "c145f84d2f0025db",
   "lastOpenFiles": [
+    "blogs/备忘录(开发，系统，软件等)/index.md",
+    "blogs/搭建飞牛 fnOS-备忘/index.md",
+    "blogs/搭建飞牛 fnOS-备忘",
+    "blogs/未命名.md",
     "blogs/阿姆达尔定律/index.md",
     "blogs/Obsidian跨平台同步/index.md",
     "blogs/Obsidian跨平台同步/同步流程.svg",
     "blogs/Obsidian跨平台同步/同步流程.md",
-    "blogs/备忘录(开发，系统，软件等)/index.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
     "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
@@ -193,7 +196,6 @@
     "blogs/cmake_use_boost/thirdparty/boost/CMakeLists.txt",
     "{{<.md",
     "附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md.md",
-    "sync.sh",
     "00_template/hugo 模板.md",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/10_终止编译cpptoture.jpg",
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/attachment/compile_cpptorture_memory_use/09_编译cpptoture_2.png",
