@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blogs/搭建飞牛 fnOS-备忘/index.md",
-                "mode": "preview",
-                "source": true
+                "file": "blogs/备忘录(开发，系统，软件等)/index.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "index"
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 386.5026054382324
   },
   "right": {
     "id": "1574b4320b83a304",
@@ -172,8 +172,16 @@
   },
   "active": "c145f84d2f0025db",
   "lastOpenFiles": [
+    "blogs/备忘录(开发，系统，软件等)/attachments/腹灵CMK87_使用说明书.pdf",
     "blogs/备忘录(开发，系统，软件等)/index.md",
+    "attatchments",
     "blogs/搭建飞牛 fnOS-备忘/index.md",
+    "blogs/备忘录(开发，系统，软件等)/attachments/MOMENTUM-4使用手册.pdf",
+    "blogs/备忘录(开发，系统，软件等)/attachments/forerunner265_OM_ZH-CN.pdf",
+    "blogs/备忘录(开发，系统，软件等)/attachments",
+    "blogs/备忘录(开发，系统，软件等)/腹灵CMK87_使用说明书.pdf",
+    "blogs/备忘录(开发，系统，软件等)/MOMENTUM-4使用手册.pdf",
+    "blogs/备忘录(开发，系统，软件等)/forerunner265_OM_ZH-CN.pdf",
     "blogs/搭建飞牛 fnOS-备忘",
     "blogs/未命名.md",
     "blogs/阿姆达尔定律/index.md",
@@ -186,14 +194,6 @@
     "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
     "blogs/cmake_use_boost/index.md",
     "blogs/cmake_use_boost/code/main.cc",
-    "blogs/cmake_use_boost/code/thirdparty/boost/CMakeLists.txt",
-    "blogs/cmake_use_boost/code/thirdparty/boost",
-    "blogs/cmake_use_boost/code/thirdparty",
-    "blogs/cmake_use_boost/code/CMakeLists.txt",
-    "blogs/cmake_use_boost/code/output.txt",
-    "blogs/cmake_use_boost/code/build_and_run.sh",
-    "blogs/cmake_use_boost/code",
-    "blogs/cmake_use_boost/thirdparty/boost/CMakeLists.txt",
     "{{<.md",
     "附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md.md",
     "00_template/hugo 模板.md",
