@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "index"
             }
+          },
+          {
+            "id": "ce6884efd81c9f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "blogs/乐高6档变速箱档位记录-备忘/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -170,10 +185,14 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "c145f84d2f0025db",
+  "active": "bd4658b3ada6d41b",
   "lastOpenFiles": [
-    "blogs/备忘录(开发，系统，软件等)/attachments/腹灵CMK87_使用说明书.pdf",
+    "未命名.md",
+    "blogs/乐高6档变速箱档位记录-备忘/index.md",
     "blogs/备忘录(开发，系统，软件等)/index.md",
+    "blogs/乐高6档变速箱档位记录-备忘",
+    "未命名",
+    "blogs/备忘录(开发，系统，软件等)/attachments/腹灵CMK87_使用说明书.pdf",
     "attatchments",
     "blogs/搭建飞牛 fnOS-备忘/index.md",
     "blogs/备忘录(开发，系统，软件等)/attachments/MOMENTUM-4使用手册.pdf",
@@ -182,7 +201,6 @@
     "blogs/备忘录(开发，系统，软件等)/腹灵CMK87_使用说明书.pdf",
     "blogs/备忘录(开发，系统，软件等)/MOMENTUM-4使用手册.pdf",
     "blogs/备忘录(开发，系统，软件等)/forerunner265_OM_ZH-CN.pdf",
-    "blogs/搭建飞牛 fnOS-备忘",
     "blogs/未命名.md",
     "blogs/阿姆达尔定律/index.md",
     "blogs/Obsidian跨平台同步/index.md",
@@ -193,7 +211,6 @@
     "blogs/翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
     "blogs/附加-翻译RecursiveMacrosWithC++20__VA_OPT__/README.md",
     "blogs/cmake_use_boost/index.md",
-    "blogs/cmake_use_boost/code/main.cc",
     "{{<.md",
     "附加-翻译RecursiveMacrosWithC++20__VA_OPT__/index.md.md",
     "00_template/hugo 模板.md",
@@ -214,7 +231,6 @@
     "blogs/emoji-support/index.md",
     "blogs/chinese-test/index.zh-cn.md",
     "blogs/00_template/hugo 模板.md",
-    "使用表达式模板做向量计算/index.md",
-    "附加-翻译RecursiveMacrosWithC++20__VA_OPT__/README.md"
+    "使用表达式模板做向量计算/index.md"
   ]
 }
