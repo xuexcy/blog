@@ -60,11 +60,11 @@ https://www.bilibili.com/video/BV17m4y1L7ZU/?vd_source=fd19bce771432fd95d40a4fd9
 	- Fn 层改键: ESC + O
 		- 同基础层改键
 3. 软件改键 Karabiner-Elements
-		a.  [下载软件](https://karabiner-elements.pqrs.org/) <br>
-		b. [导入配置](https://github.com/xuexcy/personal_conf/tree/master/karabiner)
-4.  mac 系统配置快捷键: 系统设置 -> 键盘快捷键 -> 启动台与程序坞 <br>
-		a. 打开/关闭隐藏程序坞: command + L <br>
-		b. 显示启动台: command + K 
+	-  [下载软件](https://karabiner-elements.pqrs.org/)
+	-  [导入配置](https://github.com/xuexcy/personal_conf/tree/master/karabiner)
+4.  mac 系统配置快捷键: 系统设置 -> 键盘快捷键 -> 启动台与程序坞
+	- 打开/关闭隐藏程序坞: command + L 
+	- 显示启动台: command + K 
 ## switch
 ### mac + dbi 安装游戏
 1. mac 安装 OpenMTP 或 CommandOne 软件
